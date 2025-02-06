@@ -13,5 +13,4 @@ def binary_search(nums, target):
 nums = [1, 3, 5, 7, 9, 11, 15]
 target = 7
 result = binary_search(nums, target)
-print(result)
 #O(logn)
